@@ -1,6 +1,4 @@
-# Template for yt-dlp
-## with some utility scripts and a config file!
-- Generic config that sets where the downloads are to be saved.
-- Downloads directory, inside the yt-dlp directory structure.
-- Bash-written command to download clips, provided by a valid link, clip start time and clip end time.
-- Bash-written command to download songs, provided by a valid link and sound format.
+# yt-dlp template (with a config file and some utility scripts!)
+- `yt-dlp.conf`: Generic config file that sets where the downloads are to be saved and deactivates mtime.
+- `dlclip`: Bash-written command to download clips, provided by a valid link, clip start time and clip end time.
+- `dlsong`: Bash-written command to download songs, provided by a valid link and sound format.
