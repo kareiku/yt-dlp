@@ -1,5 +1,5 @@
 # Template for yt-dlp
-###### with some utility scripts and a config file!
+## with some utility scripts and a config file!
 - Generic config that sets where the downloads are to be saved.
 - Downloads directory, inside the yt-dlp directory structure.
 - Bash-written command to download clips, provided by a valid link, clip start time and clip end time.
