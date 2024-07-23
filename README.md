@@ -17,6 +17,6 @@ yt-dlp
 ├── Downloads
 ├── ffmpeg.exe
 ├── ffprobe.exe
-├── yt-dlp.exe
-└── yt-dlp.conf
+├── yt-dlp.conf
+└── yt-dlp.exe
 ```
