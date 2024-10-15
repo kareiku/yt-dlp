@@ -1,7 +1,7 @@
 # yt-dlp
 ## A template with a config file and some utility scripts.
-> - Download the official yt-dlp releases [here](https://github.com/yt-dlp/yt-dlp/releases).
-> - Download FFmpeg [here](https://ffmpeg.org/download.html).
+- Download the official yt-dlp releases [here](https://github.com/yt-dlp/yt-dlp/releases).
+- Download FFmpeg [here](https://ffmpeg.org/download.html).
 
 ### Contents
 - `dlclip.bash`: bash script to download clips, providing a valid link, clip start time and clip end time.
