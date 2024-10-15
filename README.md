@@ -4,10 +4,12 @@
 > - Download FFmpeg [here](https://ffmpeg.org/download.html).
 
 ### Contents
-- `yt-dlp.conf`: Generic config file that sets where the downloads are to be saved and deactivates mtime.
-- `ffmpeg.exe` and `ffmprobe.exe`: utilities that improve yt-dlp's functions. Only needed as executables in Windows; other operating systems should use the PATH to the FFmpeg installation, if correctly set up.
-- `dlclip.bash`: Bash script to download clips, providing a valid link, clip start time and clip end time.
-- `dlsong.bash`: Bash script to download songs, providing a valid link and sound format.
+- `dlclip.bash`: bash script to download clips, providing a valid link, clip start time and clip end time.
+- `dlsong.bash`: bash script to download songs, providing a valid link and sound format.
+- `Downloads`: subdirectory used to save the downloaded files.
+- `ffmpeg.exe` and `ffmprobe.exe`: utilities that allow or improve yt-dlp's functions. Only needed as executables in Windows; other operating systems should use the PATH to the FFmpeg installation, if correctly set up.
+- `yt-dlp.conf`: generic config file that sets where the downloads are to be saved and deactivates mtime.
+- `yt-dlp.exe`: app's main executable. Runnable from the system's terminal, each OS has their own compiled file. Can be found on the official yt-dlp releases repository page.
 
 ### Directory tree
 ```
